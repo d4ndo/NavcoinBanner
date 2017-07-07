@@ -1,4 +1,4 @@
-#Navcoin Banner
+# Navcoin Banner
 
 | Image | Resolution |
 |-------|------------|
@@ -8,7 +8,7 @@
 | ![160x600](https://github.com/d4ndo/NavcoinBanner/blob/master/banner160x900.jpg "160x600") | 160 x 600  |
 
 
-##Fonts required
+## Fonts required
 
 Alegraya SANS SC
 
@@ -16,7 +16,7 @@ Font License: SIL Open Font License v1.10
 
 https://www.fontsquirrel.com/fonts/alegreya-sans
 
-##Tools required
+## Tools required
 
 Inkscape, ImageMagick and Make
 
