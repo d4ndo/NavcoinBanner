@@ -1,5 +1,8 @@
 # Navcoin Banner
 
+![all](https://github.com/d4ndo/NavcoinBanner/blob/master/banner.jpg "all")
+
+
 | Image | Resolution |
 |-------|------------|
 | ![300x250](https://github.com/d4ndo/NavcoinBanner/blob/master/banner300x250.jpg "300x250")  | 300 x 250 |
