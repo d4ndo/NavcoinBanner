@@ -1,7 +1,10 @@
 # Navcoin Banner
 
+Google Adwords campain:
+
 ![all](https://github.com/d4ndo/NavcoinBanner/blob/master/banner.jpg "all")
 
+## Table of each banner
 
 | Image | Resolution |
 |-------|------------|
