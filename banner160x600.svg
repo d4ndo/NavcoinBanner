@@ -29,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="-254.82659"
-     inkscape:cy="372.76074"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="64.872303"
+     inkscape:cy="361.55002"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -80,15 +80,15 @@
        id="text4163"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="81.648483"
+         x="79.85405"
          y="487.43921"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.875px;line-height:125%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1"
-         id="tspan4351">The best </tspan><tspan
+         id="tspan4351">private</tspan><tspan
          sodipodi:role="line"
          x="79.85405"
          y="514.78296"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.875px;line-height:125%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1"
-         id="tspan4318">privacy coin</tspan></text>
+         id="tspan4318">transaction</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
