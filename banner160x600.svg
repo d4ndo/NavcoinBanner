@@ -30,8 +30,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="79.999321"
-     inkscape:cy="365.52548"
+     inkscape:cx="80.554722"
+     inkscape:cy="320.13458"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -264,5 +264,16 @@
          id="tspan5559"
          x="-207.08127"
          y="808.91541">2c95e0ff</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="11.056973"
+       y="736.18439"
+       id="text7573"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7575"
+         x="11.056973"
+         y="736.18439">double blockchain</tspan></text>
   </g>
 </svg>

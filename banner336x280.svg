@@ -30,8 +30,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="141.48447"
-     inkscape:cy="216.4794"
+     inkscape:cx="76.236116"
+     inkscape:cy="157.06453"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -61,27 +61,27 @@
      transform="translate(0,-772.36218)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="171.95314"
-       y="1024.8324"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="167.95294"
+       y="1029.8832"
        id="text4151"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4434"
-         x="171.95314"
-         y="1024.8324"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;"
+         x="167.95294"
+         y="1029.8832"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1"
            id="tspan4202">Try it now</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="167.84439"
-       y="823.11322"
+       x="167.99591"
+       y="813.01172"
        id="text4163"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="167.84439"
-         y="823.11322"
+         x="167.99591"
+         y="813.01172"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1"
          id="tspan4351">private transaction</tspan></text>
     <g
@@ -109,7 +109,8 @@
          x="-27.14286"
          y="703.79071">Font: Alegraya SANS SC</tspan></text>
     <g
-       id="g5804">
+       id="g5804"
+       transform="matrix(0.98341289,0,0,1,5.1192765,-19.192898)">
       <rect
          y="853.44525"
          x="-17.07151"
@@ -126,5 +127,16 @@
          x="16.970201"
          y="871.46735" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Alegreya Sans SC';-inkscape-font-specification:'Alegreya Sans SC, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="99.056976"
+       y="980.93195"
+       id="text7573"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7575"
+         x="99.056976"
+         y="980.93195">double blockchain</tspan></text>
   </g>
 </svg>
